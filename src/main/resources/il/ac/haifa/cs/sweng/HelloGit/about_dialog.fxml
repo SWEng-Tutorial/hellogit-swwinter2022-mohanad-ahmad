@@ -7,11 +7,11 @@
 
 <VBox xmlns:fx="http://javafx.com/fxml/1">
 	<!-- TODO Add Nodes -->
-	<Label> "WE updating the git !! "</Label>
+	<Label> "WE updating the git !!! "</Label>
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="mohanad and ahmad git!!"
+		   text="mohanad and ahmad git!!!"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
